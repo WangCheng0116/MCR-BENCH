@@ -40,7 +40,10 @@ We don't provide evaluation code as each LALM requires separate complex setup (d
 ## 📖 Citation
 If you find this paper useful, please consider citing our paper:
 ```bibtex
-@article{wang2024audio,
-
+@misc{2508.15407,
+   Author = {Cheng Wang and Gelei Deng and Xianglin Yang and Han Qiu and Tianwei Zhang},
+   Title = {When Audio and Text Disagree: Revealing Text Bias in Large Audio-Language Models},
+   Year = {2025},
+   Eprint = {arXiv:2508.15407},
 }
 ```
