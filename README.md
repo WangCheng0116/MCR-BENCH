@@ -1,4 +1,9 @@
-# When Audio and Text Disagree: Benchmarking Text Bias in Large Audio-Language Models under Cross-Modal Inconsistencies
+<div align="center">
+    <h1>When Audio and Text Disagree: Benchmarking Text Bias in Large Audio-Language Models under Cross-Modal Inconsistencies</h1>
+
+
+[![arxiv](https://img.shields.io/badge/Arxiv-2508.15407-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2508.15407) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) 
+</div>
 
 ## 🎯 What this paper does
 * **Introduces MCR-BENCH**, a benchmark of ~3k samples across Audio QA, Speech Emotion Recognition, and Vocal Sound Classification, explicitly pairing audio with **faithful, adversarial, and irrelevant** text.
